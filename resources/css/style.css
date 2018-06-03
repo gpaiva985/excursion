@@ -10,8 +10,33 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.description {
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+
 .link {
   color: aquamarine;
   font-size: 16px;
   text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.copyright {
+  font-size: 21px;
+  color: Gray;
+  text-align: right;
 }
